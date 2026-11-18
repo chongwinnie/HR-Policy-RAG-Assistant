@@ -158,8 +158,3 @@ It records answers and source usage for inspection. **No independently validated
 - The notebook is a Colab prototype, not a deployed, authenticated enterprise HR application.
 
 ---
-
-## 📬 Connect
-
-**GitHub:** [@chongwinnie](https://github.com/chongwinnie)  
-**LinkedIn:** [Chong Win Nie](https://www.linkedin.com/in/chongwinnie/)
